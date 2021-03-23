@@ -61,7 +61,7 @@ _Italics_<br/>
 
 # 이미지 (Image)
 
-[민설아](https://pds.joins.com/news/component/htmlphoto_mmdata/202009/28/a974c66a-8102-4a75-b69b-634b81f9c308.jpg)
+![민설아](https://pds.joins.com/news/component/htmlphoto_mmdata/202009/28/a974c66a-8102-4a75-b69b-634b81f9c308.jpg)
 
 [![민설아](https://pds.joins.com/news/component/htmlphoto_mmdata/202009/28/a974c66a-8102-4a75-b69b-634b81f9c308.jpg)](https://pds.joins.com/news/component/htmlphoto_mmdata/202009/28/a974c66a-8102-4a75-b69b-634b81f9c308.jpg)
 
